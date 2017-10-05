@@ -1,0 +1,2 @@
+# awesomescript
+Pretty awesome
